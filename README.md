@@ -1,3 +1,7 @@
+完整文章请移步 [ 打造完美Python环境(pyenv, virtualenv, pip)](https://www.cnblogs.com/1lin24/p/11811231.html)
+
+> 文章写在博客园，图片在github无法正常显示，请点击上面的原文地址进行阅读
+
 #### 写在最前
 在使用 Python 进行开发和部署的时候，经常会碰到Python版本或者依赖包或者对应版本不同导致各种意外情况发生。
 
